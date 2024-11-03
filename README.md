@@ -2,9 +2,9 @@
 # HostMe_AI extracts and organizes essential details from resumes, which include:
 
 # 1. Personal Information
-First Name
-Last Name
-Email Address
+First Name \
+Last Name \
+Email Address \
 Phone Number
 
 # 2. Education History

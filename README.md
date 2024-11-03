@@ -42,7 +42,7 @@ https://hostme-ai-1.onrender.com/
 https://drive.google.com/drive/folders/1wKYh6K3YHLiayT5EW9cZdDb3vBnoFeXR?usp=sharing
 
 
-
+# Recommended to use Visual Studio Code
 # Just Clone using 
 !git clone  https://github.com/sunny1561/HostMe_AI.git
 

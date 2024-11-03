@@ -34,7 +34,7 @@ Working Experience
 
 # Deployment Platform: The application is deployed on the free version of Render.
 # API Service: Using the Together API (free version), which supports up to 60 requests per minute—currently sufficient for our usage.
-# Access: Link to Application 
+# Access the  Application  through below link
 https://hostme-ai-1.onrender.com/
 
 # Just Clone using 
@@ -51,17 +51,17 @@ streamlit run hostme.py
 
 
 # limitations and assumptions of the current implementation
-1.File Type: Only PDF or DOCX files are supported for upload. 
-2 .Together AI API Limit: Using the Together AI free version API (60 requests per minute, $7 credit free). Sufficient for now, but scaling may require a paid version.
-3. Required Information: The PDF or DOCX must include all necessary details to parse; missing information will be marked as Unavailable.
-4. File Size: Parsing long documents (1-2+ pages) may take longer. LLaMA 3.1-70B’s 128k context window handles large inputs, but excessive information may affect accuracy.
+1.File Type: Only PDF or DOCX files are supported for upload. \
+2 .Together AI API Limit: Using the Together AI free version API (60 requests per minute, $7 credit free). Sufficient for now, but scaling may require a paid version. \
+3. Required Information: The PDF or DOCX must include all necessary details to parse; missing information will be marked as Unavailable. \
+4. File Size: Parsing long documents (1-2+ pages) may take longer. LLaMA 3.1-70B’s 128k context window handles large inputs, but excessive information may affect accuracy. \
 5. Deployment Limits: Deployed on the free version of Render, which may have limitations affecting performance .
 
 
 # Future Improvements.
- 1.Expanded File Support: Add support for other file types, such as text and CSV files.
-2. Integration with Ollama: Use Ollama for models like LLaMA 3.1, GEMMA, and NEMOTRON without requiring an API key, simplifying access to open-source models.
-3. Chunking Strategy: Implement a chunking strategy via LangChain to handle and process larger files more efficiently.
+ 1.Expanded File Support: Add support for other file types, such as text and CSV files. \
+2. Integration with Ollama: Use Ollama for models like LLaMA 3.1, GEMMA, and NEMOTRON without requiring an API key, simplifying access to open-source models. \
+3. Chunking Strategy: Implement a chunking strategy via LangChain to handle and process larger files more efficiently. \
 4. Upgraded Deployment: Consider a paid version of Render or Vercel to reduce latency and enhance speed for a smoother user experience.
 
 

@@ -1,4 +1,7 @@
-#  a. CV Parsing & Data Extraction
+
+ # Project OverView
+ 
+#  a. CV Parsing & Data Extraction    (Kindly See the Demo Screenshot in the Repository to see the working of Web Application)
 # HostMe_AI extracts and organizes essential details from resumes, which include:
 
 # 1. Personal Information
@@ -20,7 +23,7 @@ Lists all skills mentioned in the resume
 Calculates the total years of professional experience by summing up the durations of each work experience
 
 # b. Job Role Matching
-The tool utilizes the parsed details to recommend three best-fit roles based on: \
+The tool utilizes the parsed details to recommend three best-fit roles based on: 
 
 Skills \
 Current Position \

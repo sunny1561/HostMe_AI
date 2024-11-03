@@ -47,7 +47,7 @@ https://drive.google.com/drive/folders/1wKYh6K3YHLiayT5EW9cZdDb3vBnoFeXR?usp=sha
 !git clone  https://github.com/sunny1561/HostMe_AI.git
 
 # SetUp  and How to Run the Streamlit in your system
-API_KEY="Your Together AI API" (I HAVE PUT IT INTO .env file) (place into .env file and load using os.get_env(API_KEY)
+API_KEY="Your Together AI API" (I HAVE PUT IT INTO .env file) (place into .env file and load using os.getenv(API_KEY))
 
 # Install all required Package and Library using 
 pip install -r requirements.txt  

@@ -19,6 +19,8 @@ Details of all professional experiences, including internships (if any)
 # 4. Skills
 Lists all skills mentioned in the resume
 
+
+
 # 5. Years of Experience
 Calculates the total years of professional experience by summing up the durations of each work experience
 
@@ -37,6 +39,7 @@ Working Experience
 # Access the  Application  through below link
 https://hostme-ai-1.onrender.com/
 
+
 # Just Clone using 
 !git clone  https://github.com/sunny1561/HostMe_AI.git
 
@@ -49,6 +52,7 @@ pip install -r requirements.txt
 # Run application using 
 streamlit run hostme.py
 
+ # 5. All used Prompts are in Hostme_prompt.py
 
 # limitations and assumptions of the current implementation
 1.File Type: Only PDF or DOCX files are supported for upload. \

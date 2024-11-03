@@ -21,7 +21,7 @@ Calculates the total years of professional experience by summing up the duration
 
 # b. Job Role Matching
 The tool utilizes the parsed details to recommend three best-fit roles based on:
-Skills
-Current Position
-Working Experience
+Skills \
+Current Position \
+Working Experience \
 # The tool also suggests closely aligned roles for candidates, enhancing the job search experience with targeted recommendations.

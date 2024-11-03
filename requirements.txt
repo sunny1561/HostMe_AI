@@ -1,5 +1,5 @@
 
-json
+
 streamlit
 python-dotenv
 together==1.2.12  # Adjust this to a compatible version

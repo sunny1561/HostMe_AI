@@ -29,3 +29,26 @@ Skills \
 Current Position \
 Working Experience 
 # The tool also suggests closely aligned roles for candidates, enhancing the job search experience with targeted recommendations.
+
+
+
+# Deployment Platform: The application is deployed on the free version of Render.
+# API Service: Using the Together API (free version), which supports up to 60 requests per minute—currently sufficient for our usage.
+# Access: Link to Application 
+https://hostme-ai-1.onrender.com/
+
+# Just Clone using 
+!git clone 
+# SetUp  and How to Run the Streamlit in your system
+API_KEY="Your together API" (I HAVE PUT IT INTO .env file)
+
+# Install all required Package and Library using 
+pip install -r requirements.txt  (given in repo) 
+
+
+
+
+
+
+
+

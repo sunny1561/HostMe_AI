@@ -32,12 +32,15 @@ Current Position \
 Working Experience 
 # The tool also suggests closely aligned roles for candidates, enhancing the job search experience with targeted recommendations.
 
-
-
 # Deployment Platform: The application is deployed on the free version of Render.
 # API Service: Using the Together API (free version), which supports up to 60 requests per minute—currently sufficient for our usage.
 # Access the  Application  through below link
 https://hostme-ai-1.onrender.com/
+
+# for testing you can use  the pdf and docx file here in drive 
+
+https://drive.google.com/drive/folders/1wKYh6K3YHLiayT5EW9cZdDb3vBnoFeXR?usp=sharing
+
 
 
 # Just Clone using 

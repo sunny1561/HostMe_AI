@@ -20,8 +20,9 @@ Lists all skills mentioned in the resume
 Calculates the total years of professional experience by summing up the durations of each work experience
 
 # b. Job Role Matching
-The tool utilizes the parsed details to recommend three best-fit roles based on:
+The tool utilizes the parsed details to recommend three best-fit roles based on: \
+
 Skills \
 Current Position \
-Working Experience \
+Working Experience 
 # The tool also suggests closely aligned roles for candidates, enhancing the job search experience with targeted recommendations.

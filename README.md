@@ -66,7 +66,7 @@ streamlit run hostme.py
 
 
 # Future Improvements.
- 1.Expanded File Support: Add support for other file types, such as text and CSV files. \
+ 1.Expanded File Support: Add support for other file types, such as text and CSV files,.rtf. \
 2. Integration with Ollama: Use Ollama for models like LLaMA 3.1, GEMMA, and NEMOTRON without requiring an API key, simplifying access to open-source models. \
 3. Chunking Strategy: Implement a chunking strategy via LangChain to handle and process larger files more efficiently. \
 4. Upgraded Deployment: Consider a paid version of Render or Vercel to reduce latency and enhance speed for a smoother user experience.
